@@ -52,4 +52,4 @@ libopusfile.so.0
 
 ## Documentation
 
-[Click here to read](https://andriybyelikov.github.io/libgameaudio/)
+[Click here to read](https://andriybyelikov.github.io/libgameaudio/docs/html/index.html)
